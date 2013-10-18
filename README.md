@@ -23,3 +23,5 @@ cd TrainSoft
 
 4. Clone the project to your computer
 
+### Make a pull request to let me see your stuff
+
